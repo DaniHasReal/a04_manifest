@@ -5,12 +5,13 @@
     <!-- Remotes -->
     <remote name="maydo" fetch="https://codeberg.org/maydo" clone-depth="1" />
     <remote name="DaniHasReal" fetch="https://github.com/DaniHasReal" clone-depth="1" />
+    <remote name="Samsung-Galaxy-G85-JDM" fetch="https://github.com/Samsung-Galaxy-G85-JDM" clone-depth="1" />
 
     <!-- Removals -->
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/samsung/a04" name="android_device_samsung_a04-lineage" remote="maydo" revision="main3" />
+    <project path="device/samsung/a04" name="android_device_samsung_a04" remote="Samsung-Galaxy-G85-JDM" revision="lineage_22" />
 
     <!-- Device - Common -->
 
