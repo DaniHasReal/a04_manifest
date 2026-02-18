@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+
+    <!-- Remotes -->
+    <remote name="maydo" fetch="https://codeberg.org/maydo" clone-depth="1" />
+    <remote name="DaniHasReal" fetch="https://github.com/DaniHasReal" clone-depth="1" />
+
+    <!-- Removals -->
+
+    <!-- Repos -->
+    <!-- Device -->
+    <project path="device/samsung/a04" name="android_device_samsung_a04-lineage" remote="maydo" revision="main3" />
+
+    <!-- Device - Common -->
+
+    <!-- Kernel -->
+    <project path="kernel/samsung/a04" name="android_kernel_samsung_a04" remote="maydo" revision="main" />
+
+    <!-- Vendor -->
+    <project path="vendor/samsung/a04" name="android_vendor_samsung_a04" remote="DaniHasReal" revision="main" />
+
+    <!-- Vendor - Common -->
+
+</manifest>
