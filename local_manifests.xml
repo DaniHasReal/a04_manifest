@@ -11,7 +11,7 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/samsung/a04" name="android_device_samsung_a04" remote="Samsung-Galaxy-G85-JDM" revision="lineage_22" />
+    <project path="device/samsung/a04" name="android_device_samsung_a04" remote="DaniHasReal" revision="lineage_22" />
 
     <!-- Device - Common -->
 
