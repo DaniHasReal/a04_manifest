@@ -19,7 +19,7 @@
     <project path="kernel/samsung/a04" name="android_kernel_samsung_a04" remote="maydo" revision="main" />
 
     <!-- Vendor -->
-    <project path="vendor/samsung/a04" name="android_vendor_samsung_a04" remote="maydo" revision="main" />
+    <!-- project path="vendor/samsung/a04" name="android_vendor_samsung_a04" remote="maydo" revision="main" / -->
 
     <!-- Vendor - Common -->
 
